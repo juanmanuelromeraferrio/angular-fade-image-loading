@@ -7,7 +7,7 @@
 
 
 # Usage
-We just inject the 'ngFadeImgLoading' module and add the directive file to to your `html` files.
+We just inject the `ngFadeImgLoading` module and add the directive file to to your `html` files.
 
 ### Angular
 ```js
