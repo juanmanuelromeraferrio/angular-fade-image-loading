@@ -1,0 +1,6 @@
+<style>
+@-webkit-keyframes imageBlur { 0% {-webkit-filter: blur(5px); } 50% {-webkit-filter : blur (2 px ); } 100% {-webkit-filter : blur (0 px ); } } @ keyframes imageBlur { 0% {-webkit-filter: blur(5px); } 50% {-webkit-filter : blur (2 px ); } 100% {-webkit-filter : blur (0 px ); } } .blur {-webkit-filter: blur(5px); } .img-show {display: block; -webkit-animation-name: imageBlur; animation-name: imageBlur; -webkit-animation-duration: 1.5s; animation-duration: 1.5s; } .img-hide {display: none; }
+</style>
+
+<img id="blur" class="blur" ng-src="{{blur}}">
+<img id="image" class="img-hide" ng-src="{{image}}">
