@@ -1,13 +1,13 @@
 # Angular Fade Image Loading
 ======
-> This is a directive for AngularJS to show a progressive image loading like Medium of Instagram does.
+> This is a directive for AngularJS to show a progressive image loading as Medium of Instagram does.
 
 # Demo
 [Live demo on CodePen](https://codepen.io/juanmanuelromera/pen/bgovEV)
 
 
 # Usage
-We just inject the `ngFadeImgLoading` module and add the directive file to to your `html` files.
+We injected the `ngFadeImgLoading` module and added the directive file to your `html` files.
 
 ### Angular
 ```js
