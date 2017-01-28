@@ -1,11 +1,12 @@
 {
   "name": "angular-fade-image-loading",
+  "version": "0.0.1",
   "homepage": "https://github.com/juanmanuelromeraferrio/angular-fade-image-loading",
   "authors": [
     "Juan M. Romera <juanmanuel.romeraferrio@gmail.com>"
   ],
   "description": "This is a directive for AngularJS to show a progressive image loading as Medium of Instagram does.",
-  "main": "./build/angular-fade-image-loading.js",
+  "main": "angular-fade-image-loading.js",
   "dependencies": {
     "angular": "~1.5.5"
   },
