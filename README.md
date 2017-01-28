@@ -5,6 +5,11 @@
 # Demo
 [Live demo on CodePen](https://codepen.io/juanmanuelromera/pen/bgovEV)
 
+## Install
+
+```shell
+bower install angular-fade-image-loading
+```
 
 # Usage
 We injected the `ngFadeImgLoading` module and added the directive file to your `html` files.
@@ -17,8 +22,8 @@ We injected the `ngFadeImgLoading` module and added the directive file to your `
 ### HTML
 Add `<script>` to your code:
 ```html
-<script src="angular/angular.min.js"></script>
-<script src="build/angular-fade-image-loading.min.js"></script>
+<script src="bower_components/angular/angular.min.js"></script>
+<script src="bower_components/angular-fade-image-loading/angular-fade-image-loading.min.js"></script>
 ```
 
 Add a `fade-img-loading` element to your html:
